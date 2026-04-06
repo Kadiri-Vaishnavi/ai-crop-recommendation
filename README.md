@@ -1,24 +1,36 @@
-🌾 AI Crop Recommendation System
+# 🌾 AI Crop Recommendation System
 
-Welcome to the AI Crop Recommendation System! This project helps farmers choose the best crops for their soil and environmental conditions using AI & Machine Learning.
+Welcome to the **AI Crop Recommendation System**! This project helps farmers choose the best crops for their soil and environmental conditions using **AI & Machine Learning**.
 
-🌐 Live Demo
+---
 
-Check out the live version here: AI Crop Recommendation
+### 🌐 Live Demo
 
-🖼️ Features
-✅ User authentication: Login and registration
-✅ Crop recommendation based on soil and environment data
-✅ Responsive frontend interface with HTML, CSS, and JavaScript
-✅ Machine Learning backend predicts optimal crops
+Check out the live version here: [AI Crop Recommendation](https://kadiri-vaishnavi.github.io/ai-crop-recommendation/)
 
-🛠️ Tech Stack
-HTML5 – Structure of the frontend
-CSS3 – Styling and responsive design
-JavaScript – Frontend interactivity
-Node.js / Python – Backend server for login and ML predictions
+---
 
-📁 Folder Structure
+### 🖼️ Features
+
+- ✅ User authentication: Login and registration  
+- ✅ Crop recommendation based on soil and environment data  
+- ✅ Responsive frontend interface with HTML, CSS, and JavaScript  
+- ✅ Machine Learning backend predicts optimal crops  
+
+---
+
+### 🛠️ Tech Stack
+
+- **HTML5** – Structure of the frontend  
+- **CSS3** – Styling and responsive design  
+- **JavaScript** – Frontend interactivity  
+- **Node.js / Python** – Backend server for login and ML predictions  
+
+---
+
+### 📁 Folder Structure
+
+```text
 kv capstone/
 ├── data/             # Dataset for training ML model
 ├── ml_training/      # Machine Learning scripts
@@ -30,8 +42,6 @@ kv capstone/
 ├── register.html     # Registration page
 ├── profile.html      # User profile page
 └── README.md         # Project info
-
-
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request if you'd like to:
 Add new features
